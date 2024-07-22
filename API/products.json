@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name" : "Laptop",
+        "category" : "Computers",
+        "brand" : "ExampleBrand",
+        "price" : 999.99,
+        "description" : "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display. ",
+        "image" : "../laptop.png"
+    },
+    {
+        "id":2,
+        "name" : "Galaxy Z Flip",
+        "category" : "Mobiles",
+        "brand" : "Samsung",
+        "price" : 899.99,
+        "description" : "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display. ",
+        "image" : "../mobile.png"
+    },
+    {
+        "id":3,
+        "name" : "Headphones",
+        "category" : "Accessories",
+        "brand" : "Sony",
+        "price" : 399.99,
+        "description" : "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display. ",
+        "image" : "../headphones.png"
+    },
+    {
+        "id":4,
+        "name" : "UHD Smart LED",
+        "category" : "Television",
+        "brand" : "Samsung",
+        "price" : 499.99,
+        "description" : "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display. ",
+        "image" : "../tv_1.png"
+    },
+    {
+        "id":5,
+        "name" : "Sound Bar",
+        "category" : "Speaker",
+        "brand" : "ExampleBrand",
+        "price" : 199.99,
+        "description" : "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display. ",
+        "image" : "../sound.png"
+    },
+    {
+        "id":6,
+        "name" : "Smartwatch",
+        "category" : "Wearables",
+        "brand" : "Apple",
+        "price" : 299.99,
+        "description" : "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display. ",
+        "image" : "../watch.png"
+    }
+]
