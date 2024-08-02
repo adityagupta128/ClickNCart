@@ -5,7 +5,8 @@
         "category" : "Computers",
         "brand" : "ExampleBrand",
         "price" : 999.99,
-        "description" : "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display. ",
+        "stock" : 50,
+        "description" : "Powerful laptop with a quad-core processor, and a 14-inch FHD display. ",
         "image" : "../laptop.png"
     },
     {
@@ -14,7 +15,8 @@
         "category" : "Mobiles",
         "brand" : "Samsung",
         "price" : 899.99,
-        "description" : "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display. ",
+        "stock" : 50,
+        "description" : "Compact, durable flip mobile with long battery life and easy use. ",
         "image" : "../mobile.png"
     },
     {
@@ -23,7 +25,8 @@
         "category" : "Accessories",
         "brand" : "Sony",
         "price" : 399.99,
-        "description" : "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display. ",
+        "stock" : 50,
+        "description" : "High-quality sound, comfortable fit, noise-canceling, long battery life. ",
         "image" : "../headphones.png"
     },
     {
@@ -32,7 +35,8 @@
         "category" : "Television",
         "brand" : "Samsung",
         "price" : 499.99,
-        "description" : "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display. ",
+        "stock" : 50,
+        "description" : "4K Ultra HD, smart apps, voice control, vibrant display, sleek design. ",
         "image" : "../tv_1.png"
     },
     {
@@ -41,7 +45,8 @@
         "category" : "Speaker",
         "brand" : "ExampleBrand",
         "price" : 199.99,
-        "description" : "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display. ",
+        "stock" : 50,
+        "description" : "Immersive audio, wireless subwoofer, Bluetooth connectivity, powerful sound.",
         "image" : "../sound.png"
     },
     {
@@ -50,7 +55,8 @@
         "category" : "Wearables",
         "brand" : "Apple",
         "price" : 299.99,
-        "description" : "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display. ",
+        "stock" : 50,
+        "description" : "Fitness tracking, heart rate monitor, GPS, customizable watch faces. ",
         "image" : "../watch.png"
     }
 ]
