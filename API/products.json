@@ -3,8 +3,8 @@
         "id":1,
         "name" : "Laptop",
         "category" : "Computers",
-        "brand" : "ExampleBrand",
-        "price" : 999.99,
+        "brand" : "Apple",
+        "price" : 99999,
         "stock" : 50,
         "description" : "Powerful laptop with a quad-core processor, and a 14-inch FHD display. ",
         "image" : "../laptop.png"
@@ -14,7 +14,7 @@
         "name" : "Galaxy Z Flip",
         "category" : "Mobiles",
         "brand" : "Samsung",
-        "price" : 899.99,
+        "price" : 89999,
         "stock" : 50,
         "description" : "Compact, durable flip mobile with long battery life and easy use. ",
         "image" : "../mobile.png"
@@ -24,7 +24,7 @@
         "name" : "Headphones",
         "category" : "Accessories",
         "brand" : "Sony",
-        "price" : 399.99,
+        "price" : 39999,
         "stock" : 50,
         "description" : "High-quality sound, comfortable fit, noise-canceling, long battery life. ",
         "image" : "../headphones.png"
@@ -34,7 +34,7 @@
         "name" : "UHD Smart LED",
         "category" : "Television",
         "brand" : "Samsung",
-        "price" : 499.99,
+        "price" : 49999,
         "stock" : 50,
         "description" : "4K Ultra HD, smart apps, voice control, vibrant display, sleek design. ",
         "image" : "../tv_1.png"
@@ -43,8 +43,8 @@
         "id":5,
         "name" : "Sound Bar",
         "category" : "Speaker",
-        "brand" : "ExampleBrand",
-        "price" : 199.99,
+        "brand" : "JBL",
+        "price" : 19999,
         "stock" : 50,
         "description" : "Immersive audio, wireless subwoofer, Bluetooth connectivity, powerful sound.",
         "image" : "../sound.png"
@@ -54,7 +54,7 @@
         "name" : "Smartwatch",
         "category" : "Wearables",
         "brand" : "Apple",
-        "price" : 299.99,
+        "price" : 29999,
         "stock" : 50,
         "description" : "Fitness tracking, heart rate monitor, GPS, customizable watch faces. ",
         "image" : "../watch.png"
